@@ -15,5 +15,3 @@ https://s3.amazonaws.com/sqlcipher/SQLCipher+for+Android+v3.1.0.zip
 Extract the libs and assets into your application. This dependency is not included in the sugar library.
 
 You're good to go. Use Sugar as usual and your database is encrypted now.
-
-
